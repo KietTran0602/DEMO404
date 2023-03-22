@@ -6,5 +6,5 @@ git add .\
 git commit -am ""
 git config --global user.email "exp@gmail.com"
 git config --global user.name "exp name"
-git push origin main
-git pull
+git push origin main đưa file lên git hub
+git pull  đưa file về máy
