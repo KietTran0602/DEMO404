@@ -14,6 +14,8 @@ vagrant ssh =>truy cập máy chủ ảo
 laravel new newProject =>tạo project mới
 lệnh truy cập danh sách folder :  windows: dir
                                   linux: ls
+khởi động máy ảo: vagrant ssh
+
 logout máy chủ ảo: exit
 
 tạo tên miền ảo: C:\Windows\System32\drivers\etc/hosts
