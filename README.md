@@ -9,7 +9,7 @@ git config --global user.name "exp name"
 git push origin main đưa file lên git hub
 git pull  đưa file về máy
 
-
+down máy ảo: vagrant up và vagrant destroy
 vagrant ssh =>truy cập máy chủ ảo
 laravel new newProject =>tạo project mới
 lệnh truy cập danh sách folder :  windows: dir
@@ -18,4 +18,4 @@ logout máy chủ ảo: exit
 
 tạo tên miền ảo: C:\Windows\System32\drivers\etc/hosts
 truy cập tên miền ảo: website.test, virtual host
-
+reload máy ảo: vagrant reload --provision
