@@ -21,3 +21,4 @@ logout máy chủ ảo: exit
 tạo tên miền ảo: C:\Windows\System32\drivers\etc/hosts
 truy cập tên miền ảo: website.test, virtual host
 reload máy ảo: vagrant reload --provision
+update sau khi sửa file : vagrant provision
